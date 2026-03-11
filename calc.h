@@ -5,12 +5,12 @@
 
 int answer(void);
 bool isPositive(int);
+bool arePositive(int, int);
 int add(int, int);
 int subtract(int, int);
 int divide(int, int);
 int multiply(int, int);
 bool isEven(int);
-// void greet(const char*, char*, size_t);
 const char* greet(const char*);
 
 #endif
