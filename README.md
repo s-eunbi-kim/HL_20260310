@@ -1,5 +1,9 @@
 # HL_20260310
 
+## VectorCAST
+### Activation Key
+ESLTR-WD1Q9-VJJP7-48XF7-6CMCX
+
 ## PICT
 ### 다운로드
 * https://github.com/microsoft/pict/releases/tag/v3.7.4
